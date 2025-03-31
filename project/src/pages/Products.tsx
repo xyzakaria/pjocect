@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React , { useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Search } from 'lucide-react';
 import { loadProductsFromCSV } from '../utils/csvLoader';
@@ -15,10 +15,18 @@ export default function Products() {
   }, []);
 
   useEffect(() => {
-    const filtered = products.filter(product => 
-      product.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      t(`products.categories.${product.category}`).toLowerCase().includes(searchQuery.toLowerCase())
-    );
+    const filtered = products.filter(product => {
+      // Vérifier que les champs existent avant de les utiliser
+      const productName = product.name?.toLowerCase() || '';
+      const productCategory = product.category || '';
+      const translatedCategory = t(`products.categories.${productCategory}`, productCategory).toLowerCase();
+      const searchTerm = searchQuery.toLowerCase();
+  
+      return (
+        productName.includes(searchTerm) || 
+        translatedCategory.includes(searchTerm)
+      );
+    });
     setFilteredProducts(filtered);
   }, [searchQuery, products, t]);
 
