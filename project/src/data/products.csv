@@ -1,9 +1,9 @@
 id,category,image,price,name
-1,halawa,./src/public/INA.jpg,100050,Baladna Halva Pistache (700 g)*12
-2,Conserves,./src/public/INA.jpg,100053,Mloukhia Baladna (Petit 200 g) /12/
-3,Conserves,./src/public/INA.jpg,100054,Thym Baladna 400 g /12/
-4,Conserves,./src/public/INA.jpg,100057,Freekeh Baladna 800 g /12/
-5,Olive_verte,./src/public/INA.jpg,100059,Feuilles de Vigne du Alsabah 1300 g /6/
+1,halawa,https://lh3.googleusercontent.com/pw/AP1GczPDPNSEydM783r7linYMIOKIwuDWhUY2Pag_0izM3yrQlIXuJrmCpJPdrrO-q68bgksQP97_ai9XMXkoqYH32bz11JDC0Jtx9-fbsJv3ztofKvLBMv3A_dQ0fh7MD03EaN1rVdzkVlU3dnJtQnpp0Ij=w182-h109-s-no-gm?authuser=2,100050,Baladna Halva Pistache (700 g)*12
+2,Conserves,,100053,Mloukhia Baladna (Petit 200 g) /12/
+3,Conserves,https://photos.google.com/u/2/share/AF1QipO1SBN40S_4Hh0-XYEMc4E4ARXif0KOGINt-yQm_7_F2XvviVswxPZ_KWBBzA8VPQ/photo/AF1QipNIiO-mDLJnwcDIN8MdKVAHUqMr2jUcKcB-g5D7?key=Nlozd1ZJNFZkSzUxWHpiZnpLcXFHbEN1MFdRRDhn,100054,Thym Baladna 400 g /12/
+4,Conserves,https://photos.google.com/u/2/share/AF1QipO1SBN40S_4Hh0-XYEMc4E4ARXif0KOGINt-yQm_7_F2XvviVswxPZ_KWBBzA8VPQ/photo/AF1QipNIKi74ip2OOfy04fnnw7QkOTC4X17-_mOQk4b9?key=Nlozd1ZJNFZkSzUxWHpiZnpLcXFHbEN1MFdRRDhn,100057,Freekeh Baladna 800 g /12/
+5,Olive_verte,https://photos.google.com/u/2/share/AF1QipO1SBN40S_4Hh0-XYEMc4E4ARXif0KOGINt-yQm_7_F2XvviVswxPZ_KWBBzA8VPQ/photo/AF1QipMXkjK4ZeB9o2aQ9Qr2FSt4jHj8ZwOOnbnjCUR2?key=Nlozd1ZJNFZkSzUxWHpiZnpLcXFHbEN1MFdRRDhn,100059,Feuilles de Vigne du Alsabah 1300 g /6/
 6,Olive_verte,./src/public/INA.jpg,100060,Feuilles de Vigne du Alsabah 660 g /12/
 7,Epices,./src/public/INA.jpg,100068,Acide Citrique Mario 800 g en Bo tes /8/
 8,halawa,./src/public/INA.jpg,100085,Halva Baladna Pistache (350 g) /12/
