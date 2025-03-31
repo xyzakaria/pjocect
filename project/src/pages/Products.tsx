@@ -14,6 +14,15 @@ export default function Products() {
     loadProductsFromCSV().then(setProducts);
   }, []);
 
+/**  useEffect(() => {
+  const filtered = products.filter(product => 
+    product.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+    t(`products.categories.${product.category}`).toLowerCase().includes(searchQuery.toLowerCase())
+  );
+  setFilteredProducts(filtered);
+}, [searchQuery, products, t]);
+*/ 
+
   useEffect(() => {
     const filtered = products.filter(product => {
       // Vérifier que les champs existent avant de les utiliser

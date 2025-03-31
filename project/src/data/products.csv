@@ -1,41 +1,41 @@
 id,category,image,price,name
-1,Halava,./src/public/INA.jpg,100050,Baladna Halva Pistache (700 g)*12
+1,halawa,./src/public/INA.jpg,100050,Baladna Halva Pistache (700 g)*12
 2,Conserves,./src/public/INA.jpg,100053,Mloukhia Baladna (Petit 200 g) /12/
 3,Conserves,./src/public/INA.jpg,100054,Thym Baladna 400 g /12/
 4,Conserves,./src/public/INA.jpg,100057,Freekeh Baladna 800 g /12/
-5,Olive verte,./src/public/INA.jpg,100059,Feuilles de Vigne du Alsabah 1300 g /6/
-6,Olive verte,./src/public/INA.jpg,100060,Feuilles de Vigne du Alsabah 660 g /12/
+5,Olive_verte,./src/public/INA.jpg,100059,Feuilles de Vigne du Alsabah 1300 g /6/
+6,Olive_verte,./src/public/INA.jpg,100060,Feuilles de Vigne du Alsabah 660 g /12/
 7,Epices,./src/public/INA.jpg,100068,Acide Citrique Mario 800 g en Bo tes /8/
-8,Halava,./src/public/INA.jpg,100085,Halva Baladna Pistache (350 g) /12/
-9,Halava,./src/public/INA.jpg,100086,Halawa El Bourj - Pistache normale 700 g *6
-10,Halava,./src/public/INA.jpg,100087,Halawa El Bourj Extra - Pistache 350 g *12
-11,Halava,./src/public/INA.jpg,100088,Halawa El Bourj Extra - Pistache 700 g *6
-12,Halava,./src/public/INA.jpg,100089,Tahina El Bourj 300 g *12
-13,Halava,./src/public/INA.jpg,100090,Tahina El Bourj 700 g *6
-14,Halava,./src/public/INA.jpg,100091,Halawa El Bourj - Pistache normale 350 g *12
-15,Halava,./src/public/INA.jpg,100092,Al Ketto Tahina Rashi 1x12x700gr
-16,Halava,./src/public/INA.jpg,100094,Baladna Halva 6*1800G
-17,Halava,./src/public/INA.jpg,100095,Tiba Halva Nature 400gr*12
-18,Halava,./src/public/INA.jpg,100096,Tiba Halava Pistache 400gr*12
+8,halawa,./src/public/INA.jpg,100085,Halva Baladna Pistache (350 g) /12/
+9,halawa,./src/public/INA.jpg,100086,Halawa El Bourj - Pistache normale 700 g *6
+10,halawa,./src/public/INA.jpg,100087,Halawa El Bourj Extra - Pistache 350 g *12
+11,halawa,./src/public/INA.jpg,100088,Halawa El Bourj Extra - Pistache 700 g *6
+12,halawa,./src/public/INA.jpg,100089,Tahina El Bourj 300 g *12
+13,halawa,./src/public/INA.jpg,100090,Tahina El Bourj 700 g *6
+14,halawa,./src/public/INA.jpg,100091,Halawa El Bourj - Pistache normale 350 g *12
+15,halawa,./src/public/INA.jpg,100092,Al Ketto Tahina Rashi 1x12x700gr
+16,halawa,./src/public/INA.jpg,100094,Baladna Halva 6*1800G
+17,halawa,./src/public/INA.jpg,100095,Tiba Halva Nature 400gr*12
+18,halawa,./src/public/INA.jpg,100096,Tiba halawa Pistache 400gr*12
 19,Droguerie,./src/public/INA.jpg,100101,Petit D tergent 500 g /24/
-20,L gumes secs,./src/public/INA.jpg,100103,Boulghour du Alsabah 900 g /12/
-21,L gumes secs,./src/public/INA.jpg,100104,Sabah Boulghour Brun Fin 900 g /12/
-22,L gumes secs,./src/public/INA.jpg,100105,Sabah Boulghour Fin du 900 g /12/
-23,Caf ,./src/public/INA.jpg,100147,Infusions Shamin (20 Sachets) /20/
+20,Légumes_secs,./src/public/INA.jpg,100103,Boulghour du Alsabah 900 g /12/
+21,Légumes_secs,./src/public/INA.jpg,100104,Sabah Boulghour Brun Fin 900 g /12/
+22,Légumes_secs,./src/public/INA.jpg,100105,Sabah Boulghour Fin du 900 g /12/
+23,Café,./src/public/INA.jpg,100147,Infusions Shamin (20 Sachets) /20/
 24,Conserves,./src/public/INA.jpg,100152,Semoule de G teau du Alsabah 200 g /12/
-25,P tes,./src/public/INA.jpg,100159,Vermicelles du Alsabah 1 kg /10/
-26,P tes,./src/public/INA.jpg,100160,Vermicelles Tosca 1kg*10pi ces
-27,P tes,./src/public/INA.jpg,100161,Indomie v g tarien
-28,P tes,./src/public/INA.jpg,100162,Indomie poulet
-29,P tes,./src/public/INA.jpg,100163,Indomie poulet sp cial
+25,Pâtes,./src/public/INA.jpg,100159,Vermicelles du Alsabah 1 kg /10/
+26,Pâtes,./src/public/INA.jpg,100160,Vermicelles Tosca 1kg*10pi ces
+27,Pâtes,./src/public/INA.jpg,100161,Indomie v g tarien
+28,Pâtes,./src/public/INA.jpg,100162,Indomie poulet
+29,Pâtes,./src/public/INA.jpg,100163,Indomie poulet sp cial
 30,Gateaux,./src/public/INA.jpg,100166,Chewing-gum Shaarawi /24/
 31,Conserves,./src/public/INA.jpg,100212,Pois Chiches Cuits du Alsabah /12/
-32,Caf ,./src/public/INA.jpg,100247,Th  Rass El Hissan en Vrac 350 g /24/
-33,Caf ,./src/public/INA.jpg,100248,Th  Rass El Hissan 100 Sachets   2 g /24/
+32,Café,./src/public/INA.jpg,100247,Th  Rass El Hissan en Vrac 350 g /24/
+33,Café,./src/public/INA.jpg,100248,Th  Rass El Hissan 100 Sachets   2 g /24/
 34,Epices,./src/public/INA.jpg,100256,Noix de Coco Nazli 300 g /20/
-35,L gumes secs,./src/public/INA.jpg,100257,Freekeh Al Ghouta (Carton 800 g) /12/
-36,Olive verte,./src/public/INA.jpg,100280,Cornichons Mexicains du Alsabah 1300 g /6/
-37,Olive verte,./src/public/INA.jpg,100281,Cornichons Mexicains du Alsabah 2800 g /4/
+35,Légumes_secs,./src/public/INA.jpg,100257,Freekeh Al Ghouta (Carton 800 g) /12/
+36,Olive_verte,./src/public/INA.jpg,100280,Cornichons Mexicains du Alsabah 1300 g /6/
+37,Olive_verte,./src/public/INA.jpg,100281,Cornichons Mexicains du Alsabah 2800 g /4/
 38,Conserves,./src/public/INA.jpg,100324,Sauce Piquante Rana 100 g /36/
 39,Droguerie,./src/public/INA.jpg,100346,Shampooing Hamoul (Petit 200 ml) /12/
 40,Epices,./src/public/INA.jpg,100348,Sumac Mario (Fin) 500 g /12/
@@ -44,74 +44,74 @@ id,category,image,price,name
 43,Droguerie,./src/public/INA.jpg,100459,Poudre Hamoul /12/
 44,Conserves,./src/public/INA.jpg,1005,Durra F ves Libanaises 400g*24
 45,Epices,./src/public/INA.jpg,100513,Colorant Alimentaire 25 g /12/
-46,L gumes secs,./src/public/INA.jpg,100574,Pois Chiches Secs Mario 900 g /12/
+46,Légumes_secs,./src/public/INA.jpg,100574,Pois Chiches Secs Mario 900 g /12/
 47,Conserves,./src/public/INA.jpg,1006,F ves Chami Al-Durra 400g
 48,Epices,./src/public/INA.jpg,100609,Graines de Courge Al Baraka 5 kg /5/
 49,Droguerie,./src/public/INA.jpg,100643,Gant de Bain Noir /12/
 50,Epices,./src/public/INA.jpg,100669,Sabah  pices Mastic / 25 g / Offerte /1/
 51,Conserves,./src/public/INA.jpg,100796,Custard Al Ghouta /24/
 52,Conserves,./src/public/INA.jpg,100947,Cr me Caramel Al Ghouta 80 g /24/
-53,Caf ,./src/public/INA.jpg,100996,Sauge Mario 80 g /12/
+53,Café,./src/public/INA.jpg,100996,Sauge Mario 80 g /12/
 54,Conserves,./src/public/INA.jpg,101135,Mloukhia Baladna (400 g) /6/
 55,Epices,./src/public/INA.jpg,101297,Sabah Epices/ 50 g / Feuilles de Laurier /24/
-56,L gumes secs,./src/public/INA.jpg,101321,S same Mario (Grill ) 300 g /24/
+56,Légumes_secs,./src/public/INA.jpg,101321,S same Mario (Grill ) 300 g /24/
 57,Gateaux,./src/public/INA.jpg,101339,Dattes Medjool 900 g Felestia /12/
 58,Conserves,./src/public/INA.jpg,1014,Houmous Tahina Al-Durra 370g
 59,Conserves,./src/public/INA.jpg,101590,Cubes Maggi  tranger /24/
 60,Epices,./src/public/INA.jpg,101591,Sumac Mario (Grossier) 300 g /12/
-61,L gumes secs,./src/public/INA.jpg,101597,S same Mario (Non grill ) 300 g /24/
-62,Caf ,./src/public/INA.jpg,101611,Hibiscus Mario 150 g /12/
-63,Caf ,./src/public/INA.jpg,101612,Camomille Mario 100 g /12/
-64,L gumes secs,./src/public/INA.jpg,101665,Haricots Mario 900 g /12/
+61,Légumes_secs,./src/public/INA.jpg,101597,S same Mario (Non grill ) 300 g /24/
+62,Café,./src/public/INA.jpg,101611,Hibiscus Mario 150 g /12/
+63,Café,./src/public/INA.jpg,101612,Camomille Mario 100 g /12/
+64,Légumes_secs,./src/public/INA.jpg,101665,Haricots Mario 900 g /12/
 65,Droguerie,./src/public/INA.jpg,101716,Mim Bande Epilation /12/
 66,Epices,./src/public/INA.jpg,101736,Cacahu tes en Coque 5 kg /5/
 67,Gateaux,./src/public/INA.jpg,101756,Croissant Sfendies 4   60 g /10/
-68,L gumes secs,./src/public/INA.jpg,101779,Ma s Souffl  du Alsabah 900 g /12/
+68,Légumes_secs,./src/public/INA.jpg,101779,Ma s Souffl  du Alsabah 900 g /12/
 69,Conserves,./src/public/INA.jpg,101780,Haricots Cuits du Alsabah /12/
 70,Conserves,./src/public/INA.jpg,101781,Haricots Cuits Clav s du Alsabah /12/
 71,Epices,./src/public/INA.jpg,101982,Sabah Lumi (Jaune) /14/
 72,Epices,./src/public/INA.jpg,101994,Sabah Lumi 150 g (Noir) /20/
-73,Olive verte,./src/public/INA.jpg,102048,Cornichons Piment s du Alsabah 660 g /12/
-74,Olive verte,./src/public/INA.jpg,102061,Cornichons Piment s du Alsabah 2800 g /4/
-75,Olive verte,./src/public/INA.jpg,102063,Cornichons Piment s du Alsabah 1300 g /6/
+73,Olive_verte,./src/public/INA.jpg,102048,Cornichons Piment s du Alsabah 660 g /12/
+74,Olive_verte,./src/public/INA.jpg,102061,Cornichons Piment s du Alsabah 2800 g /4/
+75,Olive_verte,./src/public/INA.jpg,102063,Cornichons Piment s du Alsabah 1300 g /6/
 76,Huile d'olive,./src/public/INA.jpg,102172,F ves S ch es du Alsabah 700 g /10/
 77,Droguerie,./src/public/INA.jpg,102173,Milia Poudre  claircissante pour la Peau 75 g /12/
-78,Caf ,./src/public/INA.jpg,102188,Camomille Shamin (Sachets) /20/
-79,Caf ,./src/public/INA.jpg,102189,Sauge Shamin (Sachets) /20/
-80,Caf ,./src/public/INA.jpg,102191,Gingembre Shamin (Sachets) /20/
-81,Caf ,./src/public/INA.jpg,102192,Hibiscus Shamin (Sachets) /20/
+78,Café,./src/public/INA.jpg,102188,Camomille Shamin (Sachets) /20/
+79,Café,./src/public/INA.jpg,102189,Sauge Shamin (Sachets) /20/
+80,Café,./src/public/INA.jpg,102191,Gingembre Shamin (Sachets) /20/
+81,Café,./src/public/INA.jpg,102192,Hibiscus Shamin (Sachets) /20/
 82,Epices,./src/public/INA.jpg,102193,Cumin et Citron Shamin (Sachets) /20/
 83,Gateaux,./src/public/INA.jpg,102245,Dattes Khodari Hayeet Al Madina 900 g (Carton Rouge) /12/
-84,L gumes secs,./src/public/INA.jpg,102404,Sabah Boulghour Gros 900 g /12/
-85,L gumes secs,./src/public/INA.jpg,102405,Semoule grossi re Tosca 1kg*10pi ces
-86,L gumes secs,./src/public/INA.jpg,102406,Semoule moyenne Tosca 1kg*10pi ces
-87,L gumes secs,./src/public/INA.jpg,102407,Semoule fine Tosca 1kg*10pi ces
-88,L gumes secs,./src/public/INA.jpg,102408,Semoule tr s fine Tosca 1kg*10pi ces
-89,L gumes secs,./src/public/INA.jpg,102409,Boulghour du Alsabah 900 g /12/
-90,L gumes secs,./src/public/INA.jpg,102410,Haricots Mario (Klawy 800g)
-91,L gumes secs,./src/public/INA.jpg,102411,Lentilles Vertes Mario (900g) *12
-92,L gumes secs,./src/public/INA.jpg,102412,Haricots Habba habba 900 g /10/
-93,L gumes secs,./src/public/INA.jpg,102413,Lentilles Vertes Habba habba(900g) *10
-94,L gumes secs,./src/public/INA.jpg,102414,F ves S ch es du Habba habba 900 g /10/
-95,L gumes secs,./src/public/INA.jpg,102415,Moghrabieh Chtoura 15x800gr
-96,L gumes secs,./src/public/INA.jpg,102416,Zine Tamarinde 1x40x500gr
-97,L gumes secs,./src/public/INA.jpg,102417,Zine Tamarinde 1x80x250gr
-98,L gumes secs,./src/public/INA.jpg,102418,Zidnee Mloukhia 200g *12 pi ces
-99,L gumes secs,./src/public/INA.jpg,102419,Durra Gombo 75gr*12
-100,L gumes secs,./src/public/INA.jpg,102420,Durra Molokhia 200gr*12
-101,L gumes secs,./src/public/INA.jpg,102421,Sabah Aubergine S ch e (40 pi ces) /25/
-102,Caf ,./src/public/INA.jpg,102458,Gingembre au Citron Shamin (Sachets) /20/
-103,Caf ,./src/public/INA.jpg,102460,Th  Vert Shamin (Sachets) /20/
-104,Caf ,./src/public/INA.jpg,102461,Th  Vert   la Menthe Shamin (Sachets) /20/
-105,Caf ,./src/public/INA.jpg,102465,Ginseng Shamin (Sachets de Ginseng) /20/
-106,Caf ,./src/public/INA.jpg,102469,Infusion Gaz et Ballonnements Shamin (Sachets) /20/
-107,Caf ,./src/public/INA.jpg,102470,Thym Sauvage Shamin (Bo tes) /20/
+84,Légumes_secs,./src/public/INA.jpg,102404,Sabah Boulghour Gros 900 g /12/
+85,Légumes_secs,./src/public/INA.jpg,102405,Semoule grossi re Tosca 1kg*10pi ces
+86,Légumes_secs,./src/public/INA.jpg,102406,Semoule moyenne Tosca 1kg*10pi ces
+87,Légumes_secs,./src/public/INA.jpg,102407,Semoule fine Tosca 1kg*10pi ces
+88,Légumes_secs,./src/public/INA.jpg,102408,Semoule tr s fine Tosca 1kg*10pi ces
+89,Légumes_secs,./src/public/INA.jpg,102409,Boulghour du Alsabah 900 g /12/
+90,Légumes_secs,./src/public/INA.jpg,102410,Haricots Mario (Klawy 800g)
+91,Légumes_secs,./src/public/INA.jpg,102411,Lentilles Vertes Mario (900g) *12
+92,Légumes_secs,./src/public/INA.jpg,102412,Haricots Habba habba 900 g /10/
+93,Légumes_secs,./src/public/INA.jpg,102413,Lentilles Vertes Habba habba(900g) *10
+94,Légumes_secs,./src/public/INA.jpg,102414,F ves S ch es du Habba habba 900 g /10/
+95,Légumes_secs,./src/public/INA.jpg,102415,Moghrabieh Chtoura 15x800gr
+96,Légumes_secs,./src/public/INA.jpg,102416,Zine Tamarinde 1x40x500gr
+97,Légumes_secs,./src/public/INA.jpg,102417,Zine Tamarinde 1x80x250gr
+98,Légumes_secs,./src/public/INA.jpg,102418,Zidnee Mloukhia 200g *12 pi ces
+99,Légumes_secs,./src/public/INA.jpg,102419,Durra Gombo 75gr*12
+100,Légumes_secs,./src/public/INA.jpg,102420,Durra Molokhia 200gr*12
+101,Légumes_secs,./src/public/INA.jpg,102421,Sabah Aubergine S ch e (40 pi ces) /25/
+102,Café,./src/public/INA.jpg,102458,Gingembre au Citron Shamin (Sachets) /20/
+103,Café,./src/public/INA.jpg,102460,Th  Vert Shamin (Sachets) /20/
+104,Café,./src/public/INA.jpg,102461,Th  Vert   la Menthe Shamin (Sachets) /20/
+105,Café,./src/public/INA.jpg,102465,Ginseng Shamin (Sachets de Ginseng) /20/
+106,Café,./src/public/INA.jpg,102469,Infusion Gaz et Ballonnements Shamin (Sachets) /20/
+107,Café,./src/public/INA.jpg,102470,Thym Sauvage Shamin (Bo tes) /20/
 108,Conserves,./src/public/INA.jpg,102502,Mtabbal du Alsabah 660 g (Verre) /12/
 109,Gateaux,./src/public/INA.jpg,102523,Chewing-gum Seham 12 g /30/
 110,Conserves,./src/public/INA.jpg,102527,Levure Chimique Al Reem (50 sachets) /1/
 111,Conserves,./src/public/INA.jpg,102607,Levure Chimique Al Reem 125 g Bo te /12/
 112,Conserves,./src/public/INA.jpg,102608,Vanille Al Reem 125 g Bo te /12/
-113,Caf ,./src/public/INA.jpg,102763,Infusion pour Rhumes Shamin (20 Sachets) /20/
+113,Café,./src/public/INA.jpg,102763,Infusion pour Rhumes Shamin (20 Sachets) /20/
 114,Droguerie,./src/public/INA.jpg,102808,D tergent en Poudre Madar 4.5 kg /4/
 115,Conserves,./src/public/INA.jpg,102847,F ves Cuites du Alsabah 400 g /1/
 116,Droguerie,./src/public/INA.jpg,102887,Savon Sultane en Sacs /1/
@@ -137,7 +137,7 @@ id,category,image,price,name
 136,Huile d'olive,./src/public/INA.jpg,102914,Khanum Boter Ghee 1x6x2kg
 137,Gateaux,./src/public/INA.jpg,102934,Dattes Douces du Alsabah 500 g /12/
 138,Conserves,./src/public/INA.jpg,102941,Bouillon Maggi Arabe 10 g   24 /24/
-139,Caf ,./src/public/INA.jpg,102989,Anis Shamin (Sachets) /20/
+139,Café,./src/public/INA.jpg,102989,Anis Shamin (Sachets) /20/
 140,Conserves,./src/public/INA.jpg,103001,Amidon du Alsabah 340 g /12/
 141,Droguerie,./src/public/INA.jpg,103015,Shampooing Hamoul (Grand 400 ml) /12/
 142,Droguerie,./src/public/INA.jpg,103016,Cologne Hamoul 200 ml /12/
@@ -190,60 +190,60 @@ id,category,image,price,name
 189,Riz,./src/public/INA.jpg,103193,Alwazah Swan Basmati Rice 20x900gr
 190,Epices,./src/public/INA.jpg,103195,Sabah  pices Menthe 250 g
 191,Epices,./src/public/INA.jpg,103199,Paprika Fum   pices du Alsabah 135 g /12/
-192,Caf ,./src/public/INA.jpg,103203,Caf  Al Shami Extra Gold 450 g /10/
-193,Caf ,./src/public/INA.jpg,103306,Caf  Al Shami Extra Gold 180 g /25/
+192,Café,./src/public/INA.jpg,103203,Café Al Shami Extra Gold 450 g /10/
+193,Café,./src/public/INA.jpg,103306,Café Al Shami Extra Gold 180 g /25/
 194,Conserves,./src/public/INA.jpg,103330,Cacao du Alsabah 100 g /24/
 195,Conserves,./src/public/INA.jpg,103332,Amidon du Alsabah 180 g /24/
 196,Epices,./src/public/INA.jpg,103336, pices du Alsabah 500 g Cumin Moulu /14/
 197,Epices,./src/public/INA.jpg,103339, pices du Alsabah 500 g Piment Fort Concass  /14/
 198,Epices,./src/public/INA.jpg,103345, pices du Alsabah 500 g Graines de Nigelle /14/
 199,Epices,./src/public/INA.jpg,103347, pices du Alsabah 500 g Coriandre Moulue /14/
-200,Caf ,./src/public/INA.jpg,103372,Infusion Nuit Calme Shamin (Sachets) /20/
-201,Caf ,./src/public/INA.jpg,103373,Caf  Al Shami Bleu 450 g /10/
-202,Caf ,./src/public/INA.jpg,103374,Caf  Al Shami Vert 450 g /10/
-203,Caf ,./src/public/INA.jpg,103375,Caf  Al Shami argent  450 g /10/
-204,Caf ,./src/public/INA.jpg,103376,Caf  Al Shami Extra Gold 180 g /25/
-205,Caf ,./src/public/INA.jpg,103377,Nescaf  Mahmoud 3 en 1 18g *24 sachets *24 bo tes
-206,Caf ,./src/public/INA.jpg,103378,Cappuccino Cacao Mahmoud 25g *20 sachets *12 bo tes
-207,Caf ,./src/public/INA.jpg,103379,Caf  Hmoui Classique J 180 g
-208,Caf ,./src/public/INA.jpg,103380,Caf  Hmoui Noir 180 g
-209,Caf ,./src/public/INA.jpg,103381,Caf  Hmoui Noir 450 g
-210,Caf ,./src/public/INA.jpg,103382,Caf  Hmoui Extra B 180 g
-211,Caf ,./src/public/INA.jpg,103383,Caf  Hmoui Extra B 450 g
-212,Caf ,./src/public/INA.jpg,103384,Caf  Hmoui Mocha 180 g
+200,Café,./src/public/INA.jpg,103372,Infusion Nuit Calme Shamin (Sachets) /20/
+201,Café,./src/public/INA.jpg,103373,Café Al Shami Bleu 450 g /10/
+202,Café,./src/public/INA.jpg,103374,Café Al Shami Vert 450 g /10/
+203,Café,./src/public/INA.jpg,103375,Café Al Shami argent  450 g /10/
+204,Café,./src/public/INA.jpg,103376,Café Al Shami Extra Gold 180 g /25/
+205,Café,./src/public/INA.jpg,103377,NesCafé Mahmoud 3 en 1 18g *24 sachets *24 bo tes
+206,Café,./src/public/INA.jpg,103378,Cappuccino Cacao Mahmoud 25g *20 sachets *12 bo tes
+207,Café,./src/public/INA.jpg,103379,Café Hmoui Classique J 180 g
+208,Café,./src/public/INA.jpg,103380,Café Hmoui Noir 180 g
+209,Café,./src/public/INA.jpg,103381,Café Hmoui Noir 450 g
+210,Café,./src/public/INA.jpg,103382,Café Hmoui Extra B 180 g
+211,Café,./src/public/INA.jpg,103383,Café Hmoui Extra B 450 g
+212,Café,./src/public/INA.jpg,103384,Café Hmoui Mocha 180 g
 213,Epices,./src/public/INA.jpg,103385, pices du Alsabah 500 g Curcuma Moulu /14/
-214,Caf ,./src/public/INA.jpg,103386,Caf  Hmoui Mocha 450 g
-215,Caf ,./src/public/INA.jpg,103387,Hmoui Ice Mocha 24 pi ces 180 ml
-216,Caf ,./src/public/INA.jpg,103388,Hmoui Ice Original 24 pi ces 180 ml
-217,Caf ,./src/public/INA.jpg,103389,Th  Lipton 100 pi ces
-218,Caf ,./src/public/INA.jpg,103390,Hmoui Liquide 1 L
-219,Caf ,./src/public/INA.jpg,103391,Mat  Vert Kharita 250g*20
-220,Caf ,./src/public/INA.jpg,103392,Mat  Turag ey 250g 20
-221,Caf ,./src/public/INA.jpg,103393,Caf  Najjar vert 450g 10
-222,Caf ,./src/public/INA.jpg,103394,Caf  Najjar vert 200g 20
-223,Caf ,./src/public/INA.jpg,103395,Caf  Najjar bleu 200g 20
-224,Caf ,./src/public/INA.jpg,103396,Milo Nestl  400g 24
-225,Caf ,./src/public/INA.jpg,103397,Ahmad Thebag Earl Grey 100st
-226,Caf ,./src/public/INA.jpg,103398,Ahmad Thebag Cardamom 100st
-227,Caf ,./src/public/INA.jpg,103399,Ahmad Thebag english no1 100st
-228,Caf ,./src/public/INA.jpg,103400,Ahmad The cardamom 500g
-229,Caf ,./src/public/INA.jpg,103401,Ahmad The Ceylon 500g
-230,Caf ,./src/public/INA.jpg,103402,Ahmad The Earl Grey Aroma 500g
-231,Caf ,./src/public/INA.jpg,103403,Caf  Hmoui Classique J 450g
-232,Caf ,./src/public/INA.jpg,103404,Th  MAHMOD 450g /20
-233,Caf ,./src/public/INA.jpg,103405,Th  MAHMOD 2g/*100/18
-234,Olive verte,./src/public/INA.jpg,103406,Concentr  de Piment du Alsabah 660 g /12/
-235,Caf ,./src/public/INA.jpg,103407,Haseeb Koffie Super Extra Kardemom Goud 500grx10
-236,Caf ,./src/public/INA.jpg,103408,Haseeb Koffie Plus Kardemom Blauw 10x500g
-237,Caf ,./src/public/INA.jpg,103409,Haseeb Koffie Extra Kardemom Zwart 10x500gr
-238,Caf ,./src/public/INA.jpg,103410,Haseeb Koffie Medium Kardemom Rood 10x500gr
-239,Caf ,./src/public/INA.jpg,103411,Haseeb Koffie Premium Kardemom Zilver 4x750gr
-240,Caf ,./src/public/INA.jpg,103413,Hala Lel Sadah Koffie Kardemom 12x12x25gr
-241,Caf ,./src/public/INA.jpg,103414,Alwazah Thee Ceylon 110bags 1x36st
-242,Caf ,./src/public/INA.jpg,103415,Horse Head Ceylon Thee 1x24x400gr
-243,Caf ,./src/public/INA.jpg,103416,Horse Head Ceylon Theabag 29x24x100gr
-244,Caf ,./src/public/INA.jpg,103417,MATTA PEBORI ROOD 24* 250GR
-245,Caf ,./src/public/INA.jpg,103418,Al Shami Cafe Gold Extra 25*180G
+214,Café,./src/public/INA.jpg,103386,Café Hmoui Mocha 450 g
+215,Café,./src/public/INA.jpg,103387,Hmoui Ice Mocha 24 pi ces 180 ml
+216,Café,./src/public/INA.jpg,103388,Hmoui Ice Original 24 pi ces 180 ml
+217,Café,./src/public/INA.jpg,103389,Th  Lipton 100 pi ces
+218,Café,./src/public/INA.jpg,103390,Hmoui Liquide 1 L
+219,Café,./src/public/INA.jpg,103391,Mat  Vert Kharita 250g*20
+220,Café,./src/public/INA.jpg,103392,Mat  Turag ey 250g 20
+221,Café,./src/public/INA.jpg,103393,Café Najjar vert 450g 10
+222,Café,./src/public/INA.jpg,103394,Café Najjar vert 200g 20
+223,Café,./src/public/INA.jpg,103395,Café Najjar bleu 200g 20
+224,Café,./src/public/INA.jpg,103396,Milo Nestl  400g 24
+225,Café,./src/public/INA.jpg,103397,Ahmad Thebag Earl Grey 100st
+226,Café,./src/public/INA.jpg,103398,Ahmad Thebag Cardamom 100st
+227,Café,./src/public/INA.jpg,103399,Ahmad Thebag english no1 100st
+228,Café,./src/public/INA.jpg,103400,Ahmad The cardamom 500g
+229,Café,./src/public/INA.jpg,103401,Ahmad The Ceylon 500g
+230,Café,./src/public/INA.jpg,103402,Ahmad The Earl Grey Aroma 500g
+231,Café,./src/public/INA.jpg,103403,Café Hmoui Classique J 450g
+232,Café,./src/public/INA.jpg,103404,Th  MAHMOD 450g /20
+233,Café,./src/public/INA.jpg,103405,Th  MAHMOD 2g/*100/18
+234,Olive_verte,./src/public/INA.jpg,103406,Concentr  de Piment du Alsabah 660 g /12/
+235,Café,./src/public/INA.jpg,103407,Haseeb Koffie Super Extra Kardemom Goud 500grx10
+236,Café,./src/public/INA.jpg,103408,Haseeb Koffie Plus Kardemom Blauw 10x500g
+237,Café,./src/public/INA.jpg,103409,Haseeb Koffie Extra Kardemom Zwart 10x500gr
+238,Café,./src/public/INA.jpg,103410,Haseeb Koffie Medium Kardemom Rood 10x500gr
+239,Café,./src/public/INA.jpg,103411,Haseeb Koffie Premium Kardemom Zilver 4x750gr
+240,Café,./src/public/INA.jpg,103413,Hala Lel Sadah Koffie Kardemom 12x12x25gr
+241,Café,./src/public/INA.jpg,103414,Alwazah Thee Ceylon 110bags 1x36st
+242,Café,./src/public/INA.jpg,103415,Horse Head Ceylon Thee 1x24x400gr
+243,Café,./src/public/INA.jpg,103416,Horse Head Ceylon Theabag 29x24x100gr
+244,Café,./src/public/INA.jpg,103417,MATTA PEBORI ROOD 24* 250GR
+245,Café,./src/public/INA.jpg,103418,Al Shami Cafe Gold Extra 25*180G
 246,Droguerie,./src/public/INA.jpg,103419,D tergent en Poudre Nora 700 g /10/
 247,Droguerie,./src/public/INA.jpg,103422,D tergent en Poudre Madar 1.5 kg /6/
 248,Epices,./src/public/INA.jpg,103424,Sabah  pices / 100 g / B tons de Cannelle /24/
@@ -290,42 +290,42 @@ id,category,image,price,name
 289,Epices,./src/public/INA.jpg,103535, pices du Alsabah Bo tes 535 Poivre Noir en Grains 135 g /12/
 290,Epices,./src/public/INA.jpg,103536, pices du Alsabah Bo tes 536 Poivre Noir Moulu 135 g /12/
 291,Epices,./src/public/INA.jpg,103537, pices du Alsabah Bo tes 537 Sel Marin 150 g /12/
-292,Olive verte,./src/public/INA.jpg,103554,Feuilles de Vigne du Alsabah 2800 g /4/
-293,Olive verte,./src/public/INA.jpg,103555,Olives vertes  gyptiennes Al-Durra 650g )
-294,Olive verte,./src/public/INA.jpg,103556,Olives vertes  gyptiennes Al-Durra 1400g
-295,Olive verte,./src/public/INA.jpg,103557,Feuilles de vigne farcies (Yalangi) cylindrique Hena 400g *24 pi ces
-296,Olive verte,./src/public/INA.jpg,103558,Makdous Jannat Shtoora 600g *12 pi ces
+292,Olive_verte,./src/public/INA.jpg,103554,Feuilles de Vigne du Alsabah 2800 g /4/
+293,Olive_verte,./src/public/INA.jpg,103555,Olives vertes  gyptiennes Al-Durra 650g )
+294,Olive_verte,./src/public/INA.jpg,103556,Olives vertes  gyptiennes Al-Durra 1400g
+295,Olive_verte,./src/public/INA.jpg,103557,Feuilles de vigne farcies (Yalangi) cylindrique Hena 400g *24 pi ces
+296,Olive_verte,./src/public/INA.jpg,103558,Makdous Jannat Shtoora 600g *12 pi ces
 297,Epices,./src/public/INA.jpg,103559, pices du Alsabah Bo tes 559 Curry  pic  135 g /12/
-298,Olive verte,./src/public/INA.jpg,103560,Makdous Jannat Shtoora 1.3kg *6 pi ces
-299,Olive verte,./src/public/INA.jpg,103561,Makdous Jannat Shtoora 3kg *4 pi ces
+298,Olive_verte,./src/public/INA.jpg,103560,Makdous Jannat Shtoora 1.3kg *6 pi ces
+299,Olive_verte,./src/public/INA.jpg,103561,Makdous Jannat Shtoora 3kg *4 pi ces
 300,Epices,./src/public/INA.jpg,103562,Clous de Girofle en Grains  pices du Alsabah 110 g /12/
-301,Olive verte,./src/public/INA.jpg,103563,Cornichons Damas 1000 g
-302,Olive verte,./src/public/INA.jpg,103564,Cornichons Damas 2800 g
+301,Olive_verte,./src/public/INA.jpg,103563,Cornichons Damas 1000 g
+302,Olive_verte,./src/public/INA.jpg,103564,Cornichons Damas 2800 g
 303,Epices,./src/public/INA.jpg,103565, pices du Alsabah Bo tes 565  pices Poulet  pic es 200 g /12/
 304,Epices,./src/public/INA.jpg,103566, pices du Alsabah Bo tes 566 Shawarma Poulet 135 g /12/
-305,Olive verte,./src/public/INA.jpg,103567,Chou-rave rouge marin  Damas 1000 g
-306,Olive verte,./src/public/INA.jpg,103568,Chou-rave rouge marin  Damas 2800 g
+305,Olive_verte,./src/public/INA.jpg,103567,Chou-rave rouge marin  Damas 1000 g
+306,Olive_verte,./src/public/INA.jpg,103568,Chou-rave rouge marin  Damas 2800 g
 307,Epices,./src/public/INA.jpg,103569, pices du Alsabah Bo tes 569  pices pour Koubba 150 g /12/
-308,Olive verte,./src/public/INA.jpg,103570,M lange de pickles feuilles de vigne Damas 1000 g
-309,Olive verte,./src/public/INA.jpg,103571,M lange de pickles feuilles de vigne Damas 2800 g
-310,Olive verte,./src/public/INA.jpg,103572,M lange de pickles feuilles de vigne Damas 3000 g
+308,Olive_verte,./src/public/INA.jpg,103570,M lange de pickles feuilles de vigne Damas 1000 g
+309,Olive_verte,./src/public/INA.jpg,103571,M lange de pickles feuilles de vigne Damas 2800 g
+310,Olive_verte,./src/public/INA.jpg,103572,M lange de pickles feuilles de vigne Damas 3000 g
 311,Epices,./src/public/INA.jpg,103573, pices du Alsabah Bo tes 573  pices pour Mandi 135 g /12/
-312,Olive verte,./src/public/INA.jpg,103574,Poivrons Haurani locaux Damas 1000 g
-313,Olive verte,./src/public/INA.jpg,103575,Lupins Damas 1000 g
-314,Olive verte,./src/public/INA.jpg,103576,Makdous Baladna (Moyen) 1300g *6
+312,Olive_verte,./src/public/INA.jpg,103574,Poivrons Haurani locaux Damas 1000 g
+313,Olive_verte,./src/public/INA.jpg,103575,Lupins Damas 1000 g
+314,Olive_verte,./src/public/INA.jpg,103576,Makdous Baladna (Moyen) 1300g *6
 315,Epices,./src/public/INA.jpg,103577, pices du Alsabah Bo tes 577 Ras el Hanout 165 g /12/
-316,Olive verte,./src/public/INA.jpg,103578,Makdous Baladna (Petit) 600g *12
-317,Olive verte,./src/public/INA.jpg,103579,Makdous Baladna (Grand 2900g) *4
+316,Olive_verte,./src/public/INA.jpg,103578,Makdous Baladna (Petit) 600g *12
+317,Olive_verte,./src/public/INA.jpg,103579,Makdous Baladna (Grand 2900g) *4
 318,Epices,./src/public/INA.jpg,103580, pices du Alsabah Bo tes 580  pices Shawarma 135 g /12/
 319,Epices,./src/public/INA.jpg,103581, pices du Alsabah Bo tes 581 Thym Coup  70 g /12/
-320,Olive verte,./src/public/INA.jpg,103582,Cornichons Fresh 1000 g
+320,Olive_verte,./src/public/INA.jpg,103582,Cornichons Fresh 1000 g
 321,Epices,./src/public/INA.jpg,103583, pices du Alsabah Bo tes 583 M lange Sept  pices 135 g /12/
 322,Epices,./src/public/INA.jpg,103584, pices du Alsabah 500 gPoivron doux rugueux /14/
 323,Epices,./src/public/INA.jpg,103585, pices du Alsabah Bo tes 566 Shawarma Poulet 500g /14
 324,Conserves,./src/public/INA.jpg,103586,Eau de Fleur d'Oranger du Alsabah 750 ml /12/
-325,Olive verte,./src/public/INA.jpg,103587,M lange de pickles feuilles de vigne freesh 1000 g*6
-326,Olive verte,./src/public/INA.jpg,103588,Huile Al Jelkh  1L 12
-327,Olive verte,./src/public/INA.jpg,103589,Huile Al Jelkh  5L 2
+325,Olive_verte,./src/public/INA.jpg,103587,M lange de pickles feuilles de vigne freesh 1000 g*6
+326,Olive_verte,./src/public/INA.jpg,103588,Huile Al Jelkh  1L 12
+327,Olive_verte,./src/public/INA.jpg,103589,Huile Al Jelkh  5L 2
 328,Gateaux,./src/public/INA.jpg,103590,Sultane Baklava 550 g /12/
 329,Gateaux,./src/public/INA.jpg,103591,Jello Cocktail Fruity Al-Durra
 330,Gateaux,./src/public/INA.jpg,103592,Sandwich noir 50g12pi ces6bo tes
@@ -358,7 +358,7 @@ id,category,image,price,name
 357,Epices,./src/public/INA.jpg,103619, pices As-Sabah Safran 50g 24
 358,Epices,./src/public/INA.jpg,103620,Lumi du Alsabah (Jaune) 24
 359,Epices,./src/public/INA.jpg,103621,Epices diverses
-360,Gateaux,./src/public/INA.jpg,103622,P te de Dattes 1k /12/
+360,Gateaux,./src/public/INA.jpg,103622,Pâte de Dattes 1k /12/
 361,Epices,./src/public/INA.jpg,103623, pices Obeido   Sept  pices 50g + 10g / 1
 362,Epices,./src/public/INA.jpg,103624, pices Obeido   Coriandre en poudre 50g + 10g / 1
 363,Epices,./src/public/INA.jpg,103625, pices Obeido   Cumin en poudre 50g + 10g / 1
@@ -369,7 +369,7 @@ id,category,image,price,name
 368,Epices,./src/public/INA.jpg,103630, pices Obeido   Shawarma de poulet 50g + 10g / 1
 369,Epices,./src/public/INA.jpg,103632, pices Obeido   Acide citrique 50g + 10g / 1
 370,Gateaux,./src/public/INA.jpg,103633,Gel e au sucre Fishna 800g / 12
-371,Olive verte,./src/public/INA.jpg,103640,Salekini Olives vertes 1000 g
+371,Olive_verte,./src/public/INA.jpg,103640,Salekini Olives vertes 1000 g
 372,Gateaux,./src/public/INA.jpg,103641,Maamoul Pistache
 373,Gateaux,./src/public/INA.jpg,103642,Bonbons Nawashef Adnan
 374,Gateaux,./src/public/INA.jpg,103643,Quanta Break Trio Mix 153G*6
@@ -382,7 +382,7 @@ id,category,image,price,name
 381,Epices,./src/public/INA.jpg,103687, pices de paon
 382,Gateaux,./src/public/INA.jpg,103688,Biscuits Gaufres 1*6
 383,Epices,./src/public/INA.jpg,103691,Al Sabah Pulbiber x12 135GR
-384,Olive verte,./src/public/INA.jpg,103692,Monte Verde Salade d'olives vertes   la coriandre 540gr*12
+384,Olive_verte,./src/public/INA.jpg,103692,Monte Verde Salade d'olives vertes   la coriandre 540gr*12
 385,Epices,./src/public/INA.jpg,103693,Al Sabah Thym 70 gr
 386,Epices,./src/public/INA.jpg,103694,Al Sabah Carbonate*12
 387,Epices,./src/public/INA.jpg,103695,Al Sabah Graine d'Anis 12*110gr
@@ -392,8 +392,8 @@ id,category,image,price,name
 391,Epices,./src/public/INA.jpg,103699,Alsabah Epices Riz Mexicain / 135gr / 12
 392,Epices,./src/public/INA.jpg,103700,Alsabah Epices Acide Citrique / 150 gr/ 12
 393,Gateaux,./src/public/INA.jpg,103701,Chahia Pate de Datte Clair 12*1kg
-394,Olive verte,./src/public/INA.jpg,103702,Monte Verde Salade d'olives vertes grill es au citron et   l'ail 540gr*12
-395,Olive verte,./src/public/INA.jpg,103703,Monte Verde Salade d'olives vertes au thym 540gr*12
+394,Olive_verte,./src/public/INA.jpg,103702,Monte Verde Salade d'olives vertes grill es au citron et   l'ail 540gr*12
+395,Olive_verte,./src/public/INA.jpg,103703,Monte Verde Salade d'olives vertes au thym 540gr*12
 396,Epices,./src/public/INA.jpg,103704,Chefpal M lange Crispy Poulet 400gr*12
 397,Epices,./src/public/INA.jpg,103705,Al Nasser Thym 400 g /30/
 398,Gateaux,./src/public/INA.jpg,103706,La Crema Croissant 10*210G
@@ -414,7 +414,7 @@ id,category,image,price,name
 413,Conserves,./src/public/INA.jpg,1092,Falafel avec moule Al-Durra 350g
 414,Conserves,./src/public/INA.jpg,1093,Falafel sans moule Al-Durra 175g
 415,Gateaux,./src/public/INA.jpg,1095,Dattes Khudri Al-Durra
-416,Boissons gazeuzes,./src/public/INA.jpg,1098,Tamarins Faikom Al-Durra
+416,Boissons_gazeuzes,./src/public/INA.jpg,1098,Tamarins Faikom Al-Durra
 417,Conserves,./src/public/INA.jpg,1111,Durra Aubergines s ch es 75GR
 418,Conserves,./src/public/INA.jpg,1232,Durra Confiture d abricots 430g*12
 419,Conserves,./src/public/INA.jpg,1234,Durra Confiture de fraises 430g*12
@@ -422,7 +422,7 @@ id,category,image,price,name
 421,Conserves,./src/public/INA.jpg,1237,Durra Confiture de m res 430g*12
 422,Riz,./src/public/INA.jpg,1265,Riz  gyptien Al-Durra 4.5kg
 423,Conserves,./src/public/INA.jpg,1272,Houmous Extra Tahina 220g Al-Durra
-424,Boissons gazeuzes,./src/public/INA.jpg,1288,Tamarins Faikom
+424,Boissons_gazeuzes,./src/public/INA.jpg,1288,Tamarins Faikom
 425,Conserves,./src/public/INA.jpg,13746,M lasse de grenade Thym Baladna (400 g) /12/
 426,Conserves,./src/public/INA.jpg,13747,Thym Baladna Sumac d'Alep (400 g) /12/
 427,Conserves,./src/public/INA.jpg,13748,Foul Moudamas nature Hadaiq Shatoura 475g*24pi ces
@@ -497,8 +497,8 @@ id,category,image,price,name
 496,Conserves,./src/public/INA.jpg,13818,Farine Maka 1.1k*10
 497,Conserves,./src/public/INA.jpg,13819,Boulghour Baladna 900g 12
 498,Conserves,./src/public/INA.jpg,13820,Jameed Nazila 550g
-499,Conserves,./src/public/INA.jpg,13821,M lange de fruits secs
-500,Conserves,./src/public/INA.jpg,13822,M lange de fruits secs
+499,Conserves,./src/public/INA.jpg,13821,M lange de Fruits_secs
+500,Conserves,./src/public/INA.jpg,13822,M lange de Fruits_secs
 501,Conserves,./src/public/INA.jpg,13823,M lange de l gumineuses s ch es
 502,Conserves,./src/public/INA.jpg,13824,Foul Bagila Hadaiq Shatoura 850g*12pi ces
 503,Conserves,./src/public/INA.jpg,13830,Lasauard Makdous 700g doux / 12
@@ -520,74 +520,74 @@ id,category,image,price,name
 519,Conserves,./src/public/INA.jpg,13868,Monte Verde Feuilles de Vignes yalanji 400gr*24
 520,Conserves,./src/public/INA.jpg,13869,Monte Verde Pois Chiches en Saumure 400gr*24
 521,Conserves,./src/public/INA.jpg,13870,Monte Verde F ves et Pois Chiches en saumure 400gr*24
-522,Conserves,./src/public/INA.jpg,13871,Monte Verde Pois Chiches   la p te de s same 380gr*24
+522,Conserves,./src/public/INA.jpg,13871,Monte Verde Pois Chiches   la Pâte de s same 380gr*24
 523,Conserves,./src/public/INA.jpg,13872,Damas Aubergine Grill e 1000g*12
 524,Conserves,./src/public/INA.jpg,13873,Damas Yalanji 400g*12
 525,Conserves,./src/public/INA.jpg,13874,Monte Verde Aubergines Farcies makdous 1000gr*12
 526,Conserves,./src/public/INA.jpg,13875,Monte Verde Pois Chiches Bouillis et Moulus (Houmous) 3kg*4
-527,Boissons gazeuzes,./src/public/INA.jpg,1434,Jello Freeze Al-Durra
+527,Boissons_gazeuzes,./src/public/INA.jpg,1434,Jello Freeze Al-Durra
 528,Conserves,./src/public/INA.jpg,1441,F ves nature 400g avec offre 75g Al-Durra (1*24)
 529,Conserves,./src/public/INA.jpg,1444,Durra F ves avec houmous 400g avec offre 75g*24
-530,P tes,./src/public/INA.jpg,1445,Durra P tes spaghetti longues 400g*20
-531,P tes,./src/public/INA.jpg,1457,Durra P tes pasta 400g*20
-532,P tes,./src/public/INA.jpg,1458,Durra P tes coud es 400g*20
-533,P tes,./src/public/INA.jpg,1462,Vermicelles Al-Durra 400g
-534,L gumes secs,./src/public/INA.jpg,1468,Semoule fine Al-Durra 900g
-535,L gumes secs,./src/public/INA.jpg,1469,Semoule grossi re Al-Durra 900g
-536,L gumes secs,./src/public/INA.jpg,1470,Semoule moyenne Al-Durra 900g
+530,Pâtes,./src/public/INA.jpg,1445,Durra Pâtes spaghetti longues 400g*20
+531,Pâtes,./src/public/INA.jpg,1457,Durra Pâtes pasta 400g*20
+532,Pâtes,./src/public/INA.jpg,1458,Durra Pâtes coud es 400g*20
+533,Pâtes,./src/public/INA.jpg,1462,Vermicelles Al-Durra 400g
+534,Légumes_secs,./src/public/INA.jpg,1468,Semoule fine Al-Durra 900g
+535,Légumes_secs,./src/public/INA.jpg,1469,Semoule grossi re Al-Durra 900g
+536,Légumes_secs,./src/public/INA.jpg,1470,Semoule moyenne Al-Durra 900g
 537,Conserves,./src/public/INA.jpg,1484,Durra Champignons Eminc s 460g 12*1
 538,Riz,./src/public/INA.jpg,1486,Durra Riz Basmati 5kg*4
-539,Fruits secs,./src/public/INA.jpg,1901,Noix
-540,Fruits secs,./src/public/INA.jpg,1902,Noix
-541,Fruits secs,./src/public/INA.jpg,1903,Noix
-542,Fruits secs,./src/public/INA.jpg,1904,Noix
-543,Fruits secs,./src/public/INA.jpg,1905,Graines de Tournesol Al Sameer  gyptiennes Extra 300 g /70/
-544,Fruits secs,./src/public/INA.jpg,1906,??? ???? 25??
-545,Fruits secs,./src/public/INA.jpg,1907,???? ???? *10??
-546,Fruits secs,./src/public/INA.jpg,1908,Noix
-547,Fruits secs,./src/public/INA.jpg,1909,Graines Samir Citrouille 300g 1*50
-548,Fruits secs,./src/public/INA.jpg,1910,Graines Samir Melon Courgette 300g 1*50
-549,Fruits secs,./src/public/INA.jpg,1911,Graines Samir Tournesol 300g *45
-550,Fruits secs,./src/public/INA.jpg,1912,Graines M lang es Samir 300g *50
-551,Fruits secs,./src/public/INA.jpg,1913,???? ???? ???? *10??
-552,Fruits secs,./src/public/INA.jpg,1914,sum rien
-553,Fruits secs,./src/public/INA.jpg,1915,singe-noix *5
-554,Fruits secs,./src/public/INA.jpg,1916,Leblebi *5
-555,Fruits secs,./src/public/INA.jpg,1917,graines ROUGE *4
-556,Fruits secs,./src/public/INA.jpg,1918,bizr*4
-557,Fruits secs,./src/public/INA.jpg,1919,Mixed Nuts *3.5
-558,Fruits secs,./src/public/INA.jpg,1920,sama Mixed nuts Roasted emmer/sour 5kg
-559,Fruits secs,./src/public/INA.jpg,1921,sama Mixed nuts Roasted emmer/salted 5kg
-560,Fruits secs,./src/public/INA.jpg,1922,sama Mixed nuts Roasted emmer/smoked 5kg
-561,Fruits secs,./src/public/INA.jpg,1923,Chocolate Orient
-562,Fruits secs,./src/public/INA.jpg,1924,Raha Orient
-563,Fruits secs,./src/public/INA.jpg,1925,Manu Salwa Bashir
-564,Fruits secs,./src/public/INA.jpg,1926,Noga Kebrita
-565,Fruits secs,./src/public/INA.jpg,1927,Noga Muwajaha
-566,Fruits secs,./src/public/INA.jpg,1928,Noga Muwajaha
-567,Fruits secs,./src/public/INA.jpg,1929,Harisa finger
-568,Fruits secs,./src/public/INA.jpg,1930,????? ???? 10??
-569,Fruits secs,./src/public/INA.jpg,1931,???? 4??
-570,Fruits secs,./src/public/INA.jpg,1932,Leblebi *6k
-571,Fruits secs,./src/public/INA.jpg,1933,Noix
-572,Fruits secs,./src/public/INA.jpg,1934,Noix
-573,Fruits secs,./src/public/INA.jpg,1935,???? ???? ??????*10??
-574,Fruits secs,./src/public/INA.jpg,1936,???? ???? ???? *10??
-575,Fruits secs,./src/public/INA.jpg,1937,Al Nour M lange Fruits Secs Extra 300g*4*10
-576,Fruits secs,./src/public/INA.jpg,1938,Al Nour Fruits Secs Extra 300g *10*4
-577,Fruits secs,./src/public/INA.jpg,1939,Al Nour Graines de Tournesol 300g
-578,Fruits secs,./src/public/INA.jpg,1940,Al Nour Fruits Secs Regluar mix 300g*10*4
-579,Fruits secs,./src/public/INA.jpg,1941,Al Nour Arachide Jaune 300g*60
-580,Fruits secs,./src/public/INA.jpg,1942,Al Nour Graines de Courge 300g*50
-581,Fruits secs,./src/public/INA.jpg,1943,Al Nour Ma s Grill  Sal  300g*30
-582,Fruits secs,./src/public/INA.jpg,1946,Al Nour Concombres Marin s saut 10kg
-583,Fruits secs,./src/public/INA.jpg,1947,Al Nour Fruits Secs Super Extra 300g 4*10
-584,Fruits secs,./src/public/INA.jpg,1948,Sama M lange Fruits Secs Acide 900g*8
-585,Fruits secs,./src/public/INA.jpg,1949,Sama M lange Fruits Secs Grill s et Fum s 900g*8
-586,Fruits secs,./src/public/INA.jpg,1950,Sama M lange Fruits Secs Grill s et Sal s 900g*8
-587,Fruits secs,./src/public/INA.jpg,1951,Orient Datte Madjoul 1*5kg
-588,Fruits secs,./src/public/INA.jpg,1952,Beyrut Graine de Tournesol 5kg
-589,Fruits secs,./src/public/INA.jpg,1953,syrie coeur de noix 1*10kg
+539,Fruits_secs,./src/public/INA.jpg,1901,Noix
+540,Fruits_secs,./src/public/INA.jpg,1902,Noix
+541,Fruits_secs,./src/public/INA.jpg,1903,Noix
+542,Fruits_secs,./src/public/INA.jpg,1904,Noix
+543,Fruits_secs,./src/public/INA.jpg,1905,Graines de Tournesol Al Sameer  gyptiennes Extra 300 g /70/
+544,Fruits_secs,./src/public/INA.jpg,1906,??? ???? 25??
+545,Fruits_secs,./src/public/INA.jpg,1907,???? ???? *10??
+546,Fruits_secs,./src/public/INA.jpg,1908,Noix
+547,Fruits_secs,./src/public/INA.jpg,1909,Graines Samir Citrouille 300g 1*50
+548,Fruits_secs,./src/public/INA.jpg,1910,Graines Samir Melon Courgette 300g 1*50
+549,Fruits_secs,./src/public/INA.jpg,1911,Graines Samir Tournesol 300g *45
+550,Fruits_secs,./src/public/INA.jpg,1912,Graines M lang es Samir 300g *50
+551,Fruits_secs,./src/public/INA.jpg,1913,???? ???? ???? *10??
+552,Fruits_secs,./src/public/INA.jpg,1914,sum rien
+553,Fruits_secs,./src/public/INA.jpg,1915,singe-noix *5
+554,Fruits_secs,./src/public/INA.jpg,1916,Leblebi *5
+555,Fruits_secs,./src/public/INA.jpg,1917,graines ROUGE *4
+556,Fruits_secs,./src/public/INA.jpg,1918,bizr*4
+557,Fruits_secs,./src/public/INA.jpg,1919,Mixed Nuts *3.5
+558,Fruits_secs,./src/public/INA.jpg,1920,sama Mixed nuts Roasted emmer/sour 5kg
+559,Fruits_secs,./src/public/INA.jpg,1921,sama Mixed nuts Roasted emmer/salted 5kg
+560,Fruits_secs,./src/public/INA.jpg,1922,sama Mixed nuts Roasted emmer/smoked 5kg
+561,Fruits_secs,./src/public/INA.jpg,1923,Chocolate Orient
+562,Fruits_secs,./src/public/INA.jpg,1924,Raha Orient
+563,Fruits_secs,./src/public/INA.jpg,1925,Manu Salwa Bashir
+564,Fruits_secs,./src/public/INA.jpg,1926,Noga Kebrita
+565,Fruits_secs,./src/public/INA.jpg,1927,Noga Muwajaha
+566,Fruits_secs,./src/public/INA.jpg,1928,Noga Muwajaha
+567,Fruits_secs,./src/public/INA.jpg,1929,Harisa finger
+568,Fruits_secs,./src/public/INA.jpg,1930,????? ???? 10??
+569,Fruits_secs,./src/public/INA.jpg,1931,???? 4??
+570,Fruits_secs,./src/public/INA.jpg,1932,Leblebi *6k
+571,Fruits_secs,./src/public/INA.jpg,1933,Noix
+572,Fruits_secs,./src/public/INA.jpg,1934,Noix
+573,Fruits_secs,./src/public/INA.jpg,1935,???? ???? ??????*10??
+574,Fruits_secs,./src/public/INA.jpg,1936,???? ???? ???? *10??
+575,Fruits_secs,./src/public/INA.jpg,1937,Al Nour M lange Fruits_secs Extra 300g*4*10
+576,Fruits_secs,./src/public/INA.jpg,1938,Al Nour Fruits_secs Extra 300g *10*4
+577,Fruits_secs,./src/public/INA.jpg,1939,Al Nour Graines de Tournesol 300g
+578,Fruits_secs,./src/public/INA.jpg,1940,Al Nour Fruits_secs Regluar mix 300g*10*4
+579,Fruits_secs,./src/public/INA.jpg,1941,Al Nour Arachide Jaune 300g*60
+580,Fruits_secs,./src/public/INA.jpg,1942,Al Nour Graines de Courge 300g*50
+581,Fruits_secs,./src/public/INA.jpg,1943,Al Nour Ma s Grill  Sal  300g*30
+582,Fruits_secs,./src/public/INA.jpg,1946,Al Nour Concombres Marin s saut 10kg
+583,Fruits_secs,./src/public/INA.jpg,1947,Al Nour Fruits_secs Super Extra 300g 4*10
+584,Fruits_secs,./src/public/INA.jpg,1948,Sama M lange Fruits_secs Acide 900g*8
+585,Fruits_secs,./src/public/INA.jpg,1949,Sama M lange Fruits_secs Grill s et Fum s 900g*8
+586,Fruits_secs,./src/public/INA.jpg,1950,Sama M lange Fruits_secs Grill s et Sal s 900g*8
+587,Fruits_secs,./src/public/INA.jpg,1951,Orient Datte Madjoul 1*5kg
+588,Fruits_secs,./src/public/INA.jpg,1952,Beyrut Graine de Tournesol 5kg
+589,Fruits_secs,./src/public/INA.jpg,1953,syrie coeur de noix 1*10kg
 590,Oeufs,./src/public/INA.jpg,2001,oeufs blancs
 591,Conserves,./src/public/INA.jpg,2002,Foul Medammas avec piment Hena 400g *24 pi ces
 592,Conserves,./src/public/INA.jpg,2003,Foul Medammas avec pois chiches cuits Hena 400g *24 pi ces
@@ -607,31 +607,31 @@ id,category,image,price,name
 606,Mortadelle,./src/public/INA.jpg,2105,Durra Sardinen
 607,Mortadelle,./src/public/INA.jpg,2106,Sardines Chaudes Set 125g *50
 608,Mortadelle,./src/public/INA.jpg,2107,Sardines Froides Set 125g *50
-609,Lait en poudre,./src/public/INA.jpg,2108,Nido lait 2500g*6
-610,Lait en poudre,./src/public/INA.jpg,2109,Nido lait 400g*24
-611,Lait en poudre,./src/public/INA.jpg,2110,Nido lait 1800g*6
-612,Lait en poudre,./src/public/INA.jpg,2111,Nido lait 900*12
-613,Lait en poudre,./src/public/INA.jpg,2112,Halibuna lait 350g
-614,Lait en poudre,./src/public/INA.jpg,2113,Al Ghouta Cream chantilly 130g*24
-615,Boissons gazeuzes,./src/public/INA.jpg,2163,Sirop de rose en verre
-616,Boissons gazeuzes,./src/public/INA.jpg,2164,Tamarins en verre
-617,Boissons gazeuzes,./src/public/INA.jpg,2166,Tamarins Crown Galon
-618,Boissons gazeuzes,./src/public/INA.jpg,2167,Sirop Crown Galon
+609,Lait_en_poudre,./src/public/INA.jpg,2108,Nido lait 2500g*6
+610,Lait_en_poudre,./src/public/INA.jpg,2109,Nido lait 400g*24
+611,Lait_en_poudre,./src/public/INA.jpg,2110,Nido lait 1800g*6
+612,Lait_en_poudre,./src/public/INA.jpg,2111,Nido lait 900*12
+613,Lait_en_poudre,./src/public/INA.jpg,2112,Halibuna lait 350g
+614,Lait_en_poudre,./src/public/INA.jpg,2113,Al Ghouta Cream chantilly 130g*24
+615,Boissons_gazeuzes,./src/public/INA.jpg,2163,Sirop de rose en verre
+616,Boissons_gazeuzes,./src/public/INA.jpg,2164,Tamarins en verre
+617,Boissons_gazeuzes,./src/public/INA.jpg,2166,Tamarins Crown Galon
+618,Boissons_gazeuzes,./src/public/INA.jpg,2167,Sirop Crown Galon
 619,Gateaux,./src/public/INA.jpg,2168,Teashop Saudi Maamoul 480g 1*6
 620,Gateaux,./src/public/INA.jpg,2170,TeaShop Zkrayat Saudi Maamoul 480g 1*6
 621,Gateaux,./src/public/INA.jpg,2174,Bilila Biscuit Mixed 360g 1*12
 622,Chips,./src/public/INA.jpg,2187,Derby Chips 20g 1*48
 623,Produits Laitiers,./src/public/INA.jpg,2201,ABD DIARY Fromage Chelal 800G
 624,Produits Laitiers,./src/public/INA.jpg,2202,ABD DAIRY Fromage Chelal 400G
-625,Caf ,./src/public/INA.jpg,2203,Anis Al-Attar 2.5g *20 sachets4 + gratuit *24 bo tes
-626,Caf ,./src/public/INA.jpg,2204,Cannelle et gingembre Al-Attar 2.5g *20 sachets4 + gratuit *24 bo tes
-627,Caf ,./src/public/INA.jpg,2205,Cumin et citron piment  Al-Attar 5.5g *20 sachets4 + gratuit *24 bo tes
-628,Caf ,./src/public/INA.jpg,2206,Cumin et citron Al-Attar 5.7g *20 sachets4 + gratuit *24 bo tes
-629,Caf ,./src/public/INA.jpg,2207,Th  vert   la menthe Al-Attar 1.5g *20 sachets4 + gratuit *24 bo tes
-630,Caf ,./src/public/INA.jpg,2208,Th  vert Al-Attar 2.1g *20 sachets4 + gratuit *24 bo tes
-631,Caf ,./src/public/INA.jpg,2209,Boisson   la grenade Al-Attar 3g *20 sachets4 + gratuit *24 bo tes
-632,Caf ,./src/public/INA.jpg,2210,Fleurs de camomille syriennes Al-Attar 1.5g *20 sachets4 + gratuit *24 bo tes
-633,Caf ,./src/public/INA.jpg,2211,Th  vert japonais Al-Attar (Matcha) 2g *20 sachets4 + gratuit *24 bo tes
+625,Café,./src/public/INA.jpg,2203,Anis Al-Attar 2.5g *20 sachets4 + gratuit *24 bo tes
+626,Café,./src/public/INA.jpg,2204,Cannelle et gingembre Al-Attar 2.5g *20 sachets4 + gratuit *24 bo tes
+627,Café,./src/public/INA.jpg,2205,Cumin et citron piment  Al-Attar 5.5g *20 sachets4 + gratuit *24 bo tes
+628,Café,./src/public/INA.jpg,2206,Cumin et citron Al-Attar 5.7g *20 sachets4 + gratuit *24 bo tes
+629,Café,./src/public/INA.jpg,2207,Th  vert   la menthe Al-Attar 1.5g *20 sachets4 + gratuit *24 bo tes
+630,Café,./src/public/INA.jpg,2208,Th  vert Al-Attar 2.1g *20 sachets4 + gratuit *24 bo tes
+631,Café,./src/public/INA.jpg,2209,Boisson   la grenade Al-Attar 3g *20 sachets4 + gratuit *24 bo tes
+632,Café,./src/public/INA.jpg,2210,Fleurs de camomille syriennes Al-Attar 1.5g *20 sachets4 + gratuit *24 bo tes
+633,Café,./src/public/INA.jpg,2211,Th  vert japonais Al-Attar (Matcha) 2g *20 sachets4 + gratuit *24 bo tes
 634,Produits Laitiers,./src/public/INA.jpg,2212,ABD DIARY Fromage Mosnara 800g
 635,Produits Laitiers,./src/public/INA.jpg,2213,ABD DAIRY Fromage Mosnara 400G
 636,Produits Laitiers,./src/public/INA.jpg,2214,ABD DAIRY Fromage Filet D'Or 800G
@@ -657,44 +657,44 @@ id,category,image,price,name
 656,Produits Laitiers,./src/public/INA.jpg,2235,La Vache Qui Rit Smeerkaas 24P 24x360gr
 657,Produits Laitiers,./src/public/INA.jpg,2236,Ferment Pour Fromage 12*45ML
 658,Produits Laitiers,./src/public/INA.jpg,2237,AlDaerry Keshk 450g*20
-659,Boissons gazeuzes,./src/public/INA.jpg,2279,Jus d'orange Sunquick 700ml*6pi ces
-660,Boissons gazeuzes,./src/public/INA.jpg,2280,Jus de mangue Sunquick 700ml*6pi ces
-661,Boissons gazeuzes,./src/public/INA.jpg,2281,Jus de fruits Sunquick 700ml*6pi ces
-662,Boissons gazeuzes,./src/public/INA.jpg,2282,Sirop de Dattes Bassora Fromarco 450 g
-663,Boissons gazeuzes,./src/public/INA.jpg,2283,Boisson  nergisante Jack 500 ml
-664,Boissons gazeuzes,./src/public/INA.jpg,2284,Boisson  nergisante Jack Risterler 250 ml (24)
-665,Boissons gazeuzes,./src/public/INA.jpg,2285,Vimto Bouteille 2 L
-666,Boissons gazeuzes,./src/public/INA.jpg,2286,Jus Squeeze 30g Sachets *6
-667,Boissons gazeuzes,./src/public/INA.jpg,2287,Souce Ramzi enveloppe avec passoire 60
-668,Boissons gazeuzes,./src/public/INA.jpg,2288,Arak Sousse Ramzi 1kg 30
-669,Boissons gazeuzes,./src/public/INA.jpg,2289,Faymato original 330ml bo te Saudi 24
-670,Boissons gazeuzes,./src/public/INA.jpg,2290,Original Drink Wortel&Orang12X800ML
-671,Boissons gazeuzes,./src/public/INA.jpg,2291,Original Drink Mango 800ML12ST
-672,Boissons gazeuzes,./src/public/INA.jpg,2292,Original Juice Guava 800ML
-673,Boissons gazeuzes,./src/public/INA.jpg,2293,Veneto Mandarine Bouteille 2 L*6
-674,Boissons gazeuzes,./src/public/INA.jpg,2300,SunQuick Zwarte Bes Limonade 6x700ml
-675,Boissons gazeuzes,./src/public/INA.jpg,2302,Mandarine Pommes Bouteille 2 L*6
-676,Boissons gazeuzes,./src/public/INA.jpg,2305,RANI PEACH JUICE 24X235ML
-677,Boissons gazeuzes,./src/public/INA.jpg,2307,RANI STRAWBERRY&BANANA 24X235ML
-678,Boissons gazeuzes,./src/public/INA.jpg,2308,RANI GUAVA JUICE 24x235ML
-679,Boissons gazeuzes,./src/public/INA.jpg,2310,BARBICAN PINEAPPLE 24X330ML
+659,Boissons_gazeuzes,./src/public/INA.jpg,2279,Jus d'orange Sunquick 700ml*6pi ces
+660,Boissons_gazeuzes,./src/public/INA.jpg,2280,Jus de mangue Sunquick 700ml*6pi ces
+661,Boissons_gazeuzes,./src/public/INA.jpg,2281,Jus de fruits Sunquick 700ml*6pi ces
+662,Boissons_gazeuzes,./src/public/INA.jpg,2282,Sirop de Dattes Bassora Fromarco 450 g
+663,Boissons_gazeuzes,./src/public/INA.jpg,2283,Boisson  nergisante Jack 500 ml
+664,Boissons_gazeuzes,./src/public/INA.jpg,2284,Boisson  nergisante Jack Risterler 250 ml (24)
+665,Boissons_gazeuzes,./src/public/INA.jpg,2285,Vimto Bouteille 2 L
+666,Boissons_gazeuzes,./src/public/INA.jpg,2286,Jus Squeeze 30g Sachets *6
+667,Boissons_gazeuzes,./src/public/INA.jpg,2287,Souce Ramzi enveloppe avec passoire 60
+668,Boissons_gazeuzes,./src/public/INA.jpg,2288,Arak Sousse Ramzi 1kg 30
+669,Boissons_gazeuzes,./src/public/INA.jpg,2289,Faymato original 330ml bo te Saudi 24
+670,Boissons_gazeuzes,./src/public/INA.jpg,2290,Original Drink Wortel&Orang12X800ML
+671,Boissons_gazeuzes,./src/public/INA.jpg,2291,Original Drink Mango 800ML12ST
+672,Boissons_gazeuzes,./src/public/INA.jpg,2292,Original Juice Guava 800ML
+673,Boissons_gazeuzes,./src/public/INA.jpg,2293,Veneto Mandarine Bouteille 2 L*6
+674,Boissons_gazeuzes,./src/public/INA.jpg,2300,SunQuick Zwarte Bes Limonade 6x700ml
+675,Boissons_gazeuzes,./src/public/INA.jpg,2302,Mandarine Pommes Bouteille 2 L*6
+676,Boissons_gazeuzes,./src/public/INA.jpg,2305,RANI PEACH JUICE 24X235ML
+677,Boissons_gazeuzes,./src/public/INA.jpg,2307,RANI STRAWBERRY&BANANA 24X235ML
+678,Boissons_gazeuzes,./src/public/INA.jpg,2308,RANI GUAVA JUICE 24x235ML
+679,Boissons_gazeuzes,./src/public/INA.jpg,2310,BARBICAN PINEAPPLE 24X330ML
 680,Miel,./src/public/INA.jpg,2311,SHAHIA MIEL MIX AUX NOIX 12*420G
-681,Boissons gazeuzes,./src/public/INA.jpg,2312,BARBICAN PEACH 24X330ML
-682,Boissons gazeuzes,./src/public/INA.jpg,2313,BARBICAN LEMON 24X330ML
-683,Boissons gazeuzes,./src/public/INA.jpg,2314,BARBICAN APPLE 24X330ML
-684,Boissons gazeuzes,./src/public/INA.jpg,2315,BARBICAN STRAWBERRY 24X330ML
-685,Boissons gazeuzes,./src/public/INA.jpg,2316,BARBICAN PLAIN MALT 24X330ML
-686,Boissons gazeuzes,./src/public/INA.jpg,2317,BARBICAN POMEGRANATE 24X330ML
-687,Boissons gazeuzes,./src/public/INA.jpg,2318,BARBICAN RASPBERRY 24X330ML
-688,Boissons gazeuzes,./src/public/INA.jpg,2319,Vimto Cordial Bouteille Verre 12*710ml
-689,Boissons gazeuzes,./src/public/INA.jpg,2320,LUNA ICED COFFEE MOCHA 24*290ML
-690,Boissons gazeuzes,./src/public/INA.jpg,2321,LUNA ICED COFFEE ORIGINAL 24*290ML
-691,Boissons gazeuzes,./src/public/INA.jpg,2322,VIMTO PURPLE BOTTLE 330MLX24
-692,Boissons gazeuzes,./src/public/INA.jpg,2323,JUS ALMARAI NECTARE ORANGE 1*12LITRES
-693,Boissons gazeuzes,./src/public/INA.jpg,2324,ALMARAI MANGO FRUIT NECTAR 12X1L
-694,Boissons gazeuzes,./src/public/INA.jpg,2325,ALMARAI GUAVA FRUIT NECTAR 12X1L
+681,Boissons_gazeuzes,./src/public/INA.jpg,2312,BARBICAN PEACH 24X330ML
+682,Boissons_gazeuzes,./src/public/INA.jpg,2313,BARBICAN LEMON 24X330ML
+683,Boissons_gazeuzes,./src/public/INA.jpg,2314,BARBICAN APPLE 24X330ML
+684,Boissons_gazeuzes,./src/public/INA.jpg,2315,BARBICAN STRAWBERRY 24X330ML
+685,Boissons_gazeuzes,./src/public/INA.jpg,2316,BARBICAN PLAIN MALT 24X330ML
+686,Boissons_gazeuzes,./src/public/INA.jpg,2317,BARBICAN POMEGRANATE 24X330ML
+687,Boissons_gazeuzes,./src/public/INA.jpg,2318,BARBICAN RASPBERRY 24X330ML
+688,Boissons_gazeuzes,./src/public/INA.jpg,2319,Vimto Cordial Bouteille Verre 12*710ml
+689,Boissons_gazeuzes,./src/public/INA.jpg,2320,LUNA ICED COFFEE MOCHA 24*290ML
+690,Boissons_gazeuzes,./src/public/INA.jpg,2321,LUNA ICED COFFEE ORIGINAL 24*290ML
+691,Boissons_gazeuzes,./src/public/INA.jpg,2322,VIMTO PURPLE BOTTLE 330MLX24
+692,Boissons_gazeuzes,./src/public/INA.jpg,2323,JUS ALMARAI NECTARE ORANGE 1*12LITRES
+693,Boissons_gazeuzes,./src/public/INA.jpg,2324,ALMARAI MANGO FRUIT NECTAR 12X1L
+694,Boissons_gazeuzes,./src/public/INA.jpg,2325,ALMARAI GUAVA FRUIT NECTAR 12X1L
 695,Miel,./src/public/INA.jpg,2326,SHAHIA MIEL AUX NOIX PETIT12*200G
-696,Boissons gazeuzes,./src/public/INA.jpg,2334,Ramzi Racine De R glisse 24*200G
+696,Boissons_gazeuzes,./src/public/INA.jpg,2334,Ramzi Racine De R glisse 24*200G
 697,Transport,./src/public/INA.jpg,2401,Eur-Pallet
 698,Transport,./src/public/INA.jpg,2402,???
 699,Transport,./src/public/INA.jpg,2403,??????/ ????? ??????
@@ -724,7 +724,7 @@ id,category,image,price,name
 723,Confiserie,./src/public/INA.jpg,2427,Bonbon suisse au caramel 1*10kg
 724,Confiserie,./src/public/INA.jpg,2428,Bonbons Toffee Caramel et Chocolat 1*10kg
 725,Confiserie,./src/public/INA.jpg,2429,Bonbon Toffe au cardamome 1*10kg
-726,Confiserie,./src/public/INA.jpg,2430,Bonbons Toffee Caramel Caf  10kg
+726,Confiserie,./src/public/INA.jpg,2430,Bonbons Toffee Caramel Café 10kg
 727,Confiserie,./src/public/INA.jpg,2431,Bonbons Toffee Caramel Lait 1*10
 728,Confiserie,./src/public/INA.jpg,2432,Bonbons Caramel Beurre 5kg
 729,Confiserie,./src/public/INA.jpg,2433,Bonbons Toffee Caramel Fruits 1*10kg
@@ -861,20 +861,20 @@ id,category,image,price,name
 860,Vaisselle et ustensiles,./src/public/INA.jpg,3108,Al Baraka  videur   Courgette /24/
 861,Vaisselle et ustensiles,./src/public/INA.jpg,3109,Al Baraka Moule   Falafel/24/
 862,Vaisselle et ustensiles,./src/public/INA.jpg,3110,El Bic Pailles Mat  Douzaine /12/
-863,P te de dattes,./src/public/INA.jpg,3201,Maria P te de dattes clair 5kg*2
-864,P te de dattes,./src/public/INA.jpg,3202,Shahia P te de Dattes 12*1KG
-865,P te de dattes,./src/public/INA.jpg,3203,Al Baraka P te de Dattes 900 g /12/
-866,Ar mes,./src/public/INA.jpg,3401,Damas Eau de fleur d oranger 750ml*12
-867,Ar mes,./src/public/INA.jpg,3402,Damas Eau de Rose 750ml
-868,Ar mes,./src/public/INA.jpg,3403,Damas Acide citrique 750ml
-869,Ar mes,./src/public/INA.jpg,3404,Chtoura Garden Eau de Rose 24*250G
-870,Ar mes,./src/public/INA.jpg,3405,Chtoura Garden Fleur d'Oranger 24*250G
-871,Ar mes,./src/public/INA.jpg,3406,Chtoura Eau de Rose normal 12*500G
-872,Ar mes,./src/public/INA.jpg,3407,Chtoura Eau de Rose 12*500G
-873,Ar mes,./src/public/INA.jpg,3408,Chtoura Acide Citrique 12*1L
-874,Ar mes,./src/public/INA.jpg,3409,Durra Eau de rose 500ml*12
-875,Ar mes,./src/public/INA.jpg,3410,Durra Eau de fleur d oranger 500ml*12
-876,Ar mes,./src/public/INA.jpg,3411,Durra Qamar-Al-Din 400g*20
+863,Pâte de dattes,./src/public/INA.jpg,3201,Maria Pâte de dattes clair 5kg*2
+864,Pâte de dattes,./src/public/INA.jpg,3202,Shahia Pâte de Dattes 12*1KG
+865,Pâte de dattes,./src/public/INA.jpg,3203,Al Baraka Pâte de Dattes 900 g /12/
+866,Aromes,./src/public/INA.jpg,3401,Damas Eau de fleur d oranger 750ml*12
+867,Aromes,./src/public/INA.jpg,3402,Damas Eau de Rose 750ml
+868,Aromes,./src/public/INA.jpg,3403,Damas Acide citrique 750ml
+869,Aromes,./src/public/INA.jpg,3404,Chtoura Garden Eau de Rose 24*250G
+870,Aromes,./src/public/INA.jpg,3405,Chtoura Garden Fleur d'Oranger 24*250G
+871,Aromes,./src/public/INA.jpg,3406,Chtoura Eau de Rose normal 12*500G
+872,Aromes,./src/public/INA.jpg,3407,Chtoura Eau de Rose 12*500G
+873,Aromes,./src/public/INA.jpg,3408,Chtoura Acide Citrique 12*1L
+874,Aromes,./src/public/INA.jpg,3409,Durra Eau de rose 500ml*12
+875,Aromes,./src/public/INA.jpg,3410,Durra Eau de fleur d oranger 500ml*12
+876,Aromes,./src/public/INA.jpg,3411,Durra Qamar-Al-Din 400g*20
 877,Jus,./src/public/INA.jpg,3501,Original Jus de Mangue 240ml*24
 878,Jus,./src/public/INA.jpg,3502,Original Jus d'Ananas 240*24
 879,Jus,./src/public/INA.jpg,3503,Original Jus de P che 240*24
@@ -887,5 +887,5 @@ id,category,image,price,name
 886,Ghee,./src/public/INA.jpg,3602,ABD DAIRY Ghee 600G
 887,Ghee,./src/public/INA.jpg,3603,Qitaz Ghee V g tal 2kg 1*6
 888,Ghee,./src/public/INA.jpg,3604,Qitaz Ghee V g tal 4kg 1*4
-889,Produit d'hygi ne,./src/public/INA.jpg,3701,MIM Cire  pilation *12*45gr
-890,Farine/Sucre/F cule,./src/public/INA.jpg,3801,Durra F cule de ma s 350gr*12
+889,Produit d_hygiéne,./src/public/INA.jpg,3701,MIM Cire  pilation *12*45gr
+890,Farine/Sucre/Fécule,./src/public/INA.jpg,3801,Durra F cule de ma s 350gr*12
