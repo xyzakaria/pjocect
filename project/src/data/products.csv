@@ -1,20 +1,20 @@
 id,category,image,price,name
-1,dairy,./src/public/INA.jpg,100050,Baladna Halva Pistache (700 g)x12
-2,dairy,./src/public/INA.jpg,100053,Mloukhia Baladna (Petit 200 g) /12/
-3,dairy,./src/public/INA.jpg,100054,Thym Baladna 400 g /12/
-4,dairy,./src/public/INA.jpg,100057,Freekeh Baladna 800 g /12/
-5,dairy,./src/public/INA.jpg,100059,Feuilles de Vigne du Alsabah 1300 g /6/
-6,dairy,./src/public/INA.jpg,100060,Feuilles de Vigne du Alsabah 660 g /12/
-7,dairy,./src/public/INA.jpg,100068,Acide Citrique Mario 800 g en Boétes /8/
-8,dairy,./src/public/INA.jpg,100085,Halva Baladna Pistache (350 g) /12/
-9,dairy,./src/public/INA.jpg,100086,Halawa El Bourj - Pistache normale 700 g x6
-10,dairy,./src/public/INA.jpg,100087,Halawa El Bourj Extra - Pistache 350 g x12
-11,dairy,./src/public/INA.jpg,100088,Halawa El Bourj Extra - Pistache 700 g x6
-12,dairy,./src/public/INA.jpg,100089,Tahina El Bourj 300 g x12
-13,dairy,./src/public/INA.jpg,100090,Tahina El Bourj 700 g x6
-14,dairy,./src/public/INA.jpg,100091,Halawa El Bourj - Pistache normale 350 g x12
-15,dairy,./src/public/INA.jpg,100092,Al Ketto Tahina Rashi 1x12x700gr
-16,dairy,./src/public/INA.jpg,100094,Baladna Halva 6x1800G
-17,dairy,./src/public/INA.jpg,100095,Tiba Halva Nature 400grx12
-18,dairy,./src/public/INA.jpg,100096,Tiba dairy Pistache 400grx12
-19,dairy,./src/public/INA.jpg,100101,Petit Détergent 500 g /24/
+1,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100050,Baladna Halva Pistache (700 g)x12
+2,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100053,Mloukhia Baladna (Petit 200 g) /12/
+3,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100054,Thym Baladna 400 g /12/
+4,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100057,Freekeh Baladna 800 g /12/
+5,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100059,Feuilles de Vigne du Alsabah 1300 g /6/
+6,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100060,Feuilles de Vigne du Alsabah 660 g /12/
+7,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100068,Acide Citrique Mario 800 g en Boétes /8/
+8,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100085,Halva Baladna Pistache (350 g) /12/
+9,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100086,Halawa El Bourj - Pistache normale 700 g x6
+10,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100087,Halawa El Bourj Extra - Pistache 350 g x12
+11,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100088,Halawa El Bourj Extra - Pistache 700 g x6
+12,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100089,Tahina El Bourj 300 g x12
+13,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100090,Tahina El Bourj 700 g x6
+14,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100091,Halawa El Bourj - Pistache normale 350 g x12
+15,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100092,Al Ketto Tahina Rashi 1x12x700gr
+16,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100094,Baladna Halva 6x1800G
+17,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100095,Tiba Halva Nature 400grx12
+18,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100096,Tiba dairy Pistache 400grx12
+19,dairy,https://www.leborgne.fr/medias2/1/33/m/barre-a-mine_02T1.jpg,100101,Petit Détergent 500 g /24/
