@@ -12,7 +12,7 @@ export default {
   products: {
     title: 'Our Products',
     categories: {
-      Halawa: 'Halva',
+      Halawa: 'Halwa',
       Conserves: 'Canned Goods',
       olive_verte: 'Green Olive',
       epices: 'Spices',

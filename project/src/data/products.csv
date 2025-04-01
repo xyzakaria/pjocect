@@ -1,22 +1,22 @@
 id,category,image,price,name
-1,halawa,src/public/pic_articles/image1.png,100050,Baladna Halva Pistache (700 g)*12
+1,Halawa,src/public/pic_articles/image1.png,100050,Baladna Halva Pistache (700 g)*12
 2,Conserves,src/public/pic_articles/image2.png,100053,Mloukhia Baladna (Petit 200 g) /12/
 3,Conserves,src/public/pic_articles/image3.png,100054,Thym Baladna 400 g /12/
 4,Conserves,src/public/pic_articles/image4.png,100057,Freekeh Baladna 800 g /12/
 5,Olive_verte,src/public/pic_articles/image5.png,100059,Feuilles de Vigne du Alsabah 1300 g /6/
 6,Olive_verte,src/public/pic_articles/image6.png,100060,Feuilles de Vigne du Alsabah 660 g /12/
 7,Epices,src/public/pic_articles/image7.png,100068,Acide Citrique Mario 800 g en Bo tes /8/
-8,halawa,src/public/pic_articles/image8.png,100085,Halva Baladna Pistache (350 g) /12/
-9,halawa,src/public/pic_articles/image9.png,100086,Halawa El Bourj - Pistache normale 700 g *6
-10,halawa,src/public/pic_articles/image10.png,100087,Halawa El Bourj Extra - Pistache 350 g *12
-11,halawa,src/public/pic_articles/image11.png,100088,Halawa El Bourj Extra - Pistache 700 g *6
-12,halawa,src/public/pic_articles/image12.png,100089,Tahina El Bourj 300 g *12
-13,halawa,src/public/pic_articles/image13.png,100090,Tahina El Bourj 700 g *6
-14,halawa,src/public/pic_articles/image14.png,100091,Halawa El Bourj - Pistache normale 350 g *12
-15,halawa,src/public/pic_articles/image15.png,100092,Al Ketto Tahina Rashi 1x12x700gr
-16,halawa,src/public/pic_articles/image16.png,100094,Baladna Halva 6*1800G
-17,halawa,src/public/pic_articles/image17.png,100095,Tiba Halva Nature 400gr*12
-18,halawa,src/public/pic_articles/image18.png,100096,Tiba halawa Pistache 400gr*12
+8,Halawa,src/public/pic_articles/image8.png,100085,Halva Baladna Pistache (350 g) /12/
+9,Halawa,src/public/pic_articles/image9.png,100086,Halawa El Bourj - Pistache normale 700 g *6
+10,Halawa,src/public/pic_articles/image10.png,100087,Halawa El Bourj Extra - Pistache 350 g *12
+11,Halawa,src/public/pic_articles/image11.png,100088,Halawa El Bourj Extra - Pistache 700 g *6
+12,Halawa,src/public/pic_articles/image12.png,100089,Tahina El Bourj 300 g *12
+13,Halawa,src/public/pic_articles/image13.png,100090,Tahina El Bourj 700 g *6
+14,Halawa,src/public/pic_articles/image14.png,100091,Halawa El Bourj - Pistache normale 350 g *12
+15,Halawa,src/public/pic_articles/image15.png,100092,Al Ketto Tahina Rashi 1x12x700gr
+16,Halawa,src/public/pic_articles/image16.png,100094,Baladna Halva 6*1800G
+17,Halawa,src/public/pic_articles/image17.png,100095,Tiba Halva Nature 400gr*12
+18,Halawa,src/public/pic_articles/image18.png,100096,Tiba Halawa Pistache 400gr*12
 19,Droguerie,src/public/pic_articles/image19.png,100101,Petit D tergent 500 g /24/
 20,Legumes_secs,src/public/pic_articles/image20.png,100103,Boulghour du Alsabah 900 g /12/
 21,Legumes_secs,src/public/pic_articles/image21.png,100104,Sabah Boulghour Brun Fin 900 g /12/
